@@ -8,7 +8,6 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
 ## Features
 <p>In this tool I added two automatic webpage templates for engaged target on webpage to get more picture of cam</p>
 <ul>
-  <li>Festival Wishing</li>
   <li>Live YouTube TV</li>
 </ul>
 <p>simply enter festival name or youtube's video ID</p>
