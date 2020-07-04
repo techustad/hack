@@ -32,7 +32,7 @@ apt-get -y install php openssh git wget
 
 ```
 git clone https://github.com/techustad/hack
-cd CamPhish
+cd hack
 bash camphish.sh
 ```
 ### Video Demo
